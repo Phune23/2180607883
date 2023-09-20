@@ -1,6 +1,6 @@
 # 2180607883
 
-## **Application name: Multiple choice exam review**
+## **User Story: Select the exam review lesson from the list of exam review items**
 
 | Title:    | Choose exam review |
 | :-------- | :----------------- |
