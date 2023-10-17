@@ -11,6 +11,8 @@
 | **Iteration:** | Unscheduled |
 | **Estimate:** | 5 Points |
 
+![Untitled](https://github.com/Phune23/2180607883/assets/144198095/db6aa3e5-7d4d-44d8-9ab5-b7f3b7f007fe)
+
 # 2180607167
 - Multiple choice exam review application
 
@@ -25,5 +27,17 @@
 | **Estimate**          | 8 points                                                                    |
 
 ![z4770076835953_134f30529600ad868df7b465bc6f016e](https://github.com/Phune23/2180607883/assets/144354758/fc25ab45-6988-42c3-a11a-dfd3b1643966)
+
+# 2180607553
+| **Title**                | Search Excersice From The List Of Excersice Items |
+| :----------------------- | :---------------- |
+| **Value statement**      | As a customer, i want to this app to search for many excersice, so i can find this excersice quickly |
+| **Acceptance Criteria**  | Ecceptance 1<br>- Given there's a book that hasn't been yet.<br>- When required to choose a book.<br>- Then make sure this app has it.<br>Ecceptance 2<br>- The system provides visual feedback when the user find excersice.|
+| **Definition of Done**   | - Unit Test Passed <br> - Acceptance Criteria <br> - Code Reviewed <br> - Functional Test Passed <br> - Product Owner Accepts User Story|  
+| **Owner**                | Le Khanh Huy  |
+| **Interation**           | unscheduled   |
+| **Extimate**             |  5 points     |
+
+![BT](https://github.com/Phune23/2180607883/assets/144699815/e9cdb2e5-3317-4bef-85ef-a099825d0a5f)
 
 
