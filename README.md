@@ -13,15 +13,16 @@
 
 ![Untitled](https://github.com/Phune23/2180607883/assets/144198095/db6aa3e5-7d4d-44d8-9ab5-b7f3b7f007fe)
 
-| **Project Name**       | App for Management of Multiple Choice Exam Review |
+| **Project Name**       | Select the exam review lesson from the list of exam review items |
 | :--------------------- | :------------------------------------------------ |
-| **Reference Document** |                    |
+| **Reference Document** | User Story 2180607883 |
 | **Created By**         | phutbs@gmail.com |
 | **Date Of Creation**   |  23/10/2023 |
 | **Date Of Review**     |  |
 
 | **Test Case ID** | **Test Objective** | Precondition | Steps | Test Data | Expected ReSult | Post Conditional |
 | :------- | :------- | :----- | :---- | -------------- | :-------------- | :--------------- |
+| TC_01 | To test the function of selecting tests and displaying test information | There are tests to choose from to confirm taking the test and information about taking the test will appear | 1.User selects the "find test" function <br> 2. User searches for a test to review <br> 3. User selects a test to take or review <br> 4. User select the homework button | A valid exam and revision level data | 1. The system displays an interface allowing users to find tests <br> 2. When users find tests, the system will display a list of related tests <br> 3. When users Select the test, the system will display a window describing test information and show a confirmation button for the user to choose to confirm taking the test. | The new test information has been saved and applied to other tests |
 
 # 2180607167
 - Multiple choice exam review application
@@ -30,7 +31,7 @@
 |-----------------------|-----------------------------------------------------------------------------|
 | **Title**             | Divide the level of multiple-choice exam preparation on the application     |
 | **Value Statement**   | As a student, <br> I want to be able to divide my level of test revision , <br>so that I can easily track and adjust my learning process. |
-| **Acceptance Criteria** | Acceptance Criterion 1: <br>The user can directly manipulate on the interface to divide the level of test revision.<br><br> Acceptance Criterion 2: <br>The system provides visual feedback when the user changes the level of test revision. The user can save their changes. |
+| **Acceptance Criteria** | Acceptance Criterion 1: <br>The user can directly manipulate on the interface to divide the level of test revision.<br><br> Acceptance Criterion 2: <br>The system provides visual feedback when the user changes the level of test revision. The user can save their changes. | 
 | **Definition of Done** | Unit Tests Passed.<br>  Acceptance Criteria Met.<br>  Code Reviewed. <br> Functional Tests Passed. <br> Product Owner Accepts User Story |
 | **Owner**             | MR OWNER                                                                    |
 | **Iteration**         | Unscheduled                                                                 |
